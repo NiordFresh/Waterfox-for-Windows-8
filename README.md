@@ -6,7 +6,7 @@ Modified Waterfox 6.5.11 (128) and Waterfox 6.6.7 (140) for Windows 8+
 Windows 8.1: Stable.
 Windows 8: Quite stable.
 
-6.6.7 (14):
+6.6.7 (140):
 Windows 8.1: Quite stable.
 Windows 8: Further observations are needed, not very stable at the moment.
 
