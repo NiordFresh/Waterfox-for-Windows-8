@@ -14,12 +14,12 @@ If you still prefer Waterfox, version 6.5.11 / 128 is not crashing, it is stable
 Modified Waterfox 6.5.11 (128) and Waterfox 6.6.7 (140) for Windows 8+ 
 
 6.5.11 (128):
-Windows 8.1: Stable.
-Windows 8: Quite stable.
+- Windows 8.1: Stable.
+- Windows 8: Quite stable.
 
 6.6.7 (140):
-Windows 8.1: Further observations are needed, not very stable at the moment.
-Windows 8: Further observations are needed, not very stable at the moment.
+- Windows 8.1: Further observations are needed, not very stable at the moment.
+- Windows 8: Further observations are needed, not very stable at the moment.
 
 Known issues:
 6.6.7 (140) - Frequent crashing of bookmarks in the browser (most often on 8.0).
